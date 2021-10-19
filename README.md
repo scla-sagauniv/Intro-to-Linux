@@ -1,11 +1,10 @@
 # Intro-to-Linux
 ## Wiki目次(予定)
-- なぜLinuxを学ばばなければいけないか
+- なぜLinuxを学ばなければいけないか
 - CUIとGUI
 - CUIに慣れる
 - ちょっとだけLinuxの中身を覗いてみる
 - sudo(須藤さん)の正体
 - Linuxの兄弟(Distribution)はたくさんいる
-- いろいろなパッケージマネージャ
-- Shellとは何か
+- パッケージマネージャ
 - 環境変数(Pathを通すの)は大事
