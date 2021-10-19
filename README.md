@@ -1,5 +1,5 @@
 # Intro-to-Linux
-## 目次(予定)
+## Wiki目次(予定)
 - なぜLinuxを学ばばなければいけないか
 - CUIとGUI
 - CUIに慣れる
