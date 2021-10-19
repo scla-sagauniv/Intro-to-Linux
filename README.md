@@ -1,4 +1,4 @@
-# Intro-to-Linux
+# [Intro-to-Linux](https://github.com/scla-sagauniv/Intro-to-Linux/wiki)
 ## Wiki目次(予定)
 - なぜLinuxを学ばなければいけないか
 - CUIとGUI
